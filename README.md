@@ -15,5 +15,6 @@ This repository includes the source files for a custom extension of Raylib-cs th
 ## FUTURE PLANS:
 The reason for this framework to exist is becuase I wanted some foundation from which to build my own game. Because of that, it is focused mainly of UI, building it and using it efficiently. However, in the future, I plan to include the following features:
 - Transparency for UI elements
+- Allow changing UI Page bg color from the helper tool
 - `Animation` and `AnimatedSprite` classes in order to easily handle animations for sprites.
 - A world space (thought to be in 2D for now) in which to add objects that get drawn on screen, this would also mean there would be a movable camera and probably integrated physics
